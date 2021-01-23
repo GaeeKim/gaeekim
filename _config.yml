@@ -1,17 +1,17 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "gaeekim"
 description: > 
-  Write a description of your website here.
+  gaeekim laobratory 👀
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: gaee kim
+email: gaeekim@gmail.com
+# twitter_username: _HairForceOne
+instagram_username: gaeekim
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "/gaeekim" # the subpath of your site, e.g. /blog
+url: "https://gaeekim.github.io/gaeekim/" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id: 
 disqus_id:
 
 # Build settings
