@@ -3,16 +3,14 @@ layout: content
 title: Projects
 permalink: /projects/
 ---
-
-Show off your projects here!
+# Laboratory 🥼🧪
 - [Awesome Project]()
 - [Cool Project]()
 - [New Project]()
 - [Old Project]()
+
+# Thoughts + Feelings 🕮 
 - [Hard Project]()
 - [School Project]()
 - [Project's Project]()
-
-# Talks
-- How to ????
 
