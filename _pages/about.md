@@ -5,17 +5,16 @@ permalink: /about/
 ---
 
 Hi, I'm Gaee.<br>
-Thanks for visiting my online workplace.<br>
+Thanks for visiting my online workplace.<br><br>
 안녕하세요.👩🏻‍🏭 <br>
 저의 **온라인 작업실**에 방문해주셔서 감사합니다. 
 
-I do tinkerings and write when I have the time. 
-I am open any discussions and collaboration regarding the themes shared through this website.
+I do tinkerings and write when I have the time.I am open any discussions and collaboration regarding the themes shared through this website.<br>
 Hope you enjoy my work.
 
 
-Gaee Kim 김가이
-Seoul, South Korea
+Gaee Kim 김가이<br>
+Seoul, South Korea<br>
 [gaeekim@gmail.com]()
 
 ----
