@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Gaee.
-Thanks for visiting my online workplace.
-안녕하세요.👩🏻‍🏭 
+Hi, I'm Gaee.<br>
+Thanks for visiting my online workplace.<br>
+안녕하세요.👩🏻‍🏭 <br>
 저의 **온라인 작업실**에 방문해주셔서 감사합니다. 
 
 I do tinkerings and write about topcis like below when I have the time. 
