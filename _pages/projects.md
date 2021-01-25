@@ -8,7 +8,7 @@ permalink: /projects/
 ## 개인 작업 Personal Work
 
 ### 실험적인 - Tinkering Laboratory 🥼🧪
-- [Digital Graphic Novel]() - 준비중
+- [Interactive 🦄 Digital Graphic Novel Series]() - 준비중
 - Plant x Human Co-Existence
   * 수경재배 세라믹 화분 [Linnea Pot](https://gaeekim.myportfolio.com/linnea-pot-product-design-for-home-gardening)
 
