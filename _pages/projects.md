@@ -15,9 +15,11 @@ permalink: /projects/
   * [Linnea Pot](https://gaeekim.myportfolio.com/linnea-pot-product-design-for-home-gardening)
 
 
-### 개념적인 - Conceptual Reading & Writing 🖋
+### 탐구적인 - Explorative Activities 🔎🕵🏻‍♀️
 - [Future Food]()
+  * 네가지 맛 곤충 과자 시식회
 - [Production - Consumption Loop]()
+  * 인도 슬럼 거대 플라스틱 재활용 산업 탐사 [Dharavi's Plastic Recycling Industry](https://mythologiesofmumbai.wordpress.com/2012/07/18/discovering-dharavi-2/)
 
 
 <br>
