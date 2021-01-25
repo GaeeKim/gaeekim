@@ -9,7 +9,7 @@ Thanks for visiting my online workplace.<br><br>
 안녕하세요.👩🏻‍🏭 <br>
 저의 **온라인 작업실**에 방문해주셔서 감사합니다. 
 
-I do tinkerings and write about them. I am open to any discussions and collaborations regarding [the ideas](https://gaeekim.github.io/gaeekim/projects/) shared through this website.<br>
+I do tinkerings and write about those. I am open to any discussions and collaborations regarding [the ideas](https://gaeekim.github.io/gaeekim/projects/) shared through this website.<br>
 Hope you enjoy my work and welcome to my online workplace.
 
 
