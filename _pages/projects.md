@@ -1,9 +1,8 @@
 ---
 layout: content
-title: 
+title: projects
 permalink: /projects/
 ---
-<br>
 <br>
 
 ## 개인 작업 Personal Work
