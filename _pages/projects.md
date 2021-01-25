@@ -6,6 +6,7 @@ permalink: /projects/
 <br>
 <br>
 <br>
+
 ## 개인 작업 Personal Work
 
 ### 실험적인 - Tinkering Laboratory 🥼🧪
@@ -22,6 +23,7 @@ permalink: /projects/
 <br>
 <br>
 <br>
+
 ## 기업 또는 학업을 위한 작업 Professional Work 
 
 ### UX Research, UX Strategy
