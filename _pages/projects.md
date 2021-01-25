@@ -30,8 +30,8 @@ permalink: /projects/
 - [Home Growing Appliance - Usage Context Articulation](https://gaeekim.myportfolio.com/plantbox-ux-branding)
 
 ### UIUX
-- [bloomingbit project - 가상자산 투자 소셜 플랫폼 어플리케이션 디자인](https://gaeekim.myportfolio.com/ui-design-virtual-asset-social-network)
-- [konnect project - 블록체인 기반 인증서 UX 플로우] (https://gaeekim.myportfolio.com/digital-certificate-blockchain-based)
+- 가상자산 투자 소셜 플랫폼 어플리케이션 디자인 [bloomingbit project](https://gaeekim.myportfolio.com/ui-design-virtual-asset-social-network)
+- 블록체인 기반 인증서 UX 플로우[konnect project](https://gaeekim.myportfolio.com/digital-certificate-blockchain-based)
 
 
 
