@@ -5,7 +5,6 @@ permalink: /projects/
 ---
 <br>
 <br>
-<br>
 
 ## 개인 작업 Personal Work
 
@@ -21,8 +20,6 @@ permalink: /projects/
 - [Production - Consumption Loop]()
   * 인도 슬럼 거대 플라스틱 재활용 산업 탐사 [Dharavi's Plastic Recycling Industry](https://mythologiesofmumbai.wordpress.com/2012/07/18/discovering-dharavi-2/)
 
-
-<br>
 <br>
 <br>
 
