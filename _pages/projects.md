@@ -20,7 +20,7 @@ permalink: /projects/
 <br>
 <br>
 
-### 기업 또는 학업을 위한 작업 Professional Work 
+## 기업 또는 학업을 위한 작업 Professional Work 
 
 ### UX Research, UX Strategy
 - [System Autonomy, Personal Indoor Farming and User Preference](https://iasdr2019.org/research-papers?keywords=gaee+kim&category=) 
