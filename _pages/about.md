@@ -3,20 +3,39 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Gaee and I live in South Korea. Thanks for visiting my site.
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+Hi, I'm Gaee. Thanks for visiting my online workplace.
+안녕하세요 저의 **온라인 작업실**에 방문해주셔서 감사합니다. 
+
+I do tinkerings and write about topcis like below when I have the time. 
+I am open any discussions and collaboration regarding the themes shared through this website.
+Hope you enjoy my work.
+
+
+Gaee Kim 김가이
+Seoul, South Korea
+[gaeekim@gmail.com]()
 
 ----
 
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+## 온라인 작업실
+### 온라인 작업실에서 다룰 것들
+- 일련의 과정을 담은 프로젝트: 리서치, 아이디어, 구체화, 테스트
+- 책, 영화, 대화를 통해 느낀점
+- 어떤 가설에 기반한 실험적 만들기 활동
+### 현재 주로 관심을 갖고 있는 것은
+- Digital Works with 아주 아날로그한 콘텐츠나 감성
+- 목공 woodworking
+- farming, food-growing
+- eco-friendly lifestyles
+- local businesses
 
 ----
 
-## Etcetera
+## Other Channels
 
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
+- 포트폴리오 [Portfolio](https://www.instagram.com/) for 📸
+- 블로그 [Naver Blog](https://www.facebook.com/) for 🕺
+- 인스타그램 [Social Network]()
+- 유투브 [Youtube Channel]() - 준비중
 
