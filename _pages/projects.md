@@ -15,7 +15,7 @@ permalink: /projects/
 ### 개념적인 - Conceptual Reading & Writing 🖋
 - [Future Food]()
 - [Production - Consumption Loop]()
-- [Project's Project]()
+
 
 <br>
 <br>
