@@ -10,9 +10,9 @@ permalink: /projects/
 ## 개인 작업 Personal Work
 
 ### 실험적인 - Tinkering Laboratory 🥼🧪
-- [Digital Graphic Novel]()
+- [Digital Graphic Novel]() - 준비중
 - Plant x Human Co-Existence
-  * [Linnea Pot](https://gaeekim.myportfolio.com/linnea-pot-product-design-for-home-gardening)
+  * 수경재배 세라믹 화분 [Linnea Pot](https://gaeekim.myportfolio.com/linnea-pot-product-design-for-home-gardening)
 
 
 ### 탐구적인 - Explorative Activities 🔎🕵🏻‍♀️
@@ -33,8 +33,8 @@ permalink: /projects/
 - [Home Growing Appliance - Usage Context Articulation](https://gaeekim.myportfolio.com/plantbox-ux-branding)
 
 ### UIUX
-- [bloomingbit project - Application Design for an Investment Information Social Network](https://gaeekim.myportfolio.com/ui-design-virtual-asset-social-network)
-- [konnect project - Design for blockchain-based certificate service](https://gaeekim.myportfolio.com/digital-certificate-blockchain-based)
+- [bloomingbit project - 가상자산 투자 소셜 플랫폼 어플리케이션 디자인](https://gaeekim.myportfolio.com/ui-design-virtual-asset-social-network)
+- [konnect project - 블록체인 기반 인증서 UX 플로우] (https://gaeekim.myportfolio.com/digital-certificate-blockchain-based)
 
 
 
