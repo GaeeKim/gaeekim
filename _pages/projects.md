@@ -26,7 +26,7 @@ permalink: /projects/
 - [System Autonomy, Personal Indoor Farming and User Preference](https://iasdr2019.org/research-papers?keywords=gaee+kim&category=) 
 - [Home Growing Appliance - Usage Context Articulation](https://gaeekim.myportfolio.com/plantbox-ux-branding)
 
-### UIUX 🕮 
+### UIUX
 - [bloomingbit project - Application Design for an Investment Information Social Network](https://gaeekim.myportfolio.com/ui-design-virtual-asset-social-network)
 - [konnect project - Design for blockchain-based certificate service](https://gaeekim.myportfolio.com/digital-certificate-blockchain-based)
 
