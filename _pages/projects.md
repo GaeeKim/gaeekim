@@ -16,7 +16,7 @@ permalink: /projects/
 
 ### 탐구적인 - Explorative Activities 🔎🕵🏻‍♀️
 - [Future Food]()
-  * 미래맛 작은 시식회 [네가지 맛 곤충 과자]()
+  * Taste of Future 작은 시식회 [미래의 맛: 네가지 맛 곤충 과자]()
 - [Production - Consumption Loop]()
   * 인도 슬럼 거대 플라스틱 재활용 산업 탐사 [Dharavi's Plastic Recycling Industry](https://mythologiesofmumbai.wordpress.com/2012/07/18/discovering-dharavi-2/)
 
