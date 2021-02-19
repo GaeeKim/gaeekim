@@ -26,7 +26,8 @@ Seoul, South Korea<br>
 - 어떤 가설에 기반한 실험적 만들기 활동
 
 ### 현재 주로 관심을 갖고 있는 것은
-- Digital Works with 아주 아날로그한 콘텐츠나 감성
+- Human,Technology, and Future
+- Digital Works with analog context
 - 목공 woodworking
 - farming, food-growing
 - eco-friendly lifestyles
