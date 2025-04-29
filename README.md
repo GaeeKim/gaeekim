@@ -1,4 +1,5 @@
-# 🌟 Gili Kim — Seoul-based Dreamer, Designer, and Rooftop Farmer
+# 🌟 Gili Kim 
+## Seoul-based Dreamer, Designer, and Rooftop Farmer
 
 An UX designer building tools for people,  
 now also growing gardens in the sky.
